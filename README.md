@@ -12,7 +12,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 ESTUDIANTE DE INGENIERIA EN INFORMÁTICA
+🎓 ESTUDIANTE DE INGENIERIA EN INTELIGENCIA ARTIFICIAL
 
 🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
